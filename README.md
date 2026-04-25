@@ -14,7 +14,7 @@ Scroll animations using AOS
 
 The project includes multiple sections such as:
 
-Top Bar + Sticky Navbar
+Top Bar + Navbar
 Hero Section
 Statistics Section
 Problem Section
